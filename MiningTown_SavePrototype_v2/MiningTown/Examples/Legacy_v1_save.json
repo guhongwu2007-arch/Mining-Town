@@ -1,0 +1,18 @@
+{
+  "gameId": "mining-town-save-prototype",
+  "version": 1,
+  "wood": 5,
+  "honor": 20,
+  "houseRepaired": true,
+  "collectedWoodIds": [
+    0,
+    1,
+    2,
+    3,
+    4
+  ],
+  "playerX": -3.25,
+  "playerY": 1.0,
+  "playerZ": 2.75,
+  "savedAtUtc": "2026-11-17T00:00:00.0000000Z"
+}
